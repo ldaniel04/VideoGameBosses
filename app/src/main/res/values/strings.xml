@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">VideoGame Bosses</string>
+    <string name="title">10 VideoGame Bosses</string>
+    <string name="godskin_duo">Duo Sacrodermo</string>
+    <string name="jack_baker">Jack Baker</string>
+    <string name="lady_dimitrescu">Familia Dimitrescu</string>
+    <string name="sigrun">La Reina Valquiria</string>
+    <string name="lillith">Lillith Hija del Odio</string>
+    <string name="mantis">Señores Mantis</string>
+    <string name="octopus">Dr. Octopus</string>
+    <string name="garrador_duo">Garradores</string>
+    <string name="medusa">Medusa</string>
+    <string name="shimano">Futoshi Shimano</string>
+    <string name="desc_godskin_duo">Los hermanos favoritos de todo buen fanático de From Software, un dúo que te harán provar la muerte y su poder sacro</string>
+    <string name="desc_mantis">Los mejores guerreros de la tribu Mantis, y no solo de su tribu si no de los mejores del Hollow Knight</string>
+    <string name="desc_jack_baker">Jack Baker hace que Resident Evil regrese al terror, después de varias entregas shooter, Jack Baker da la entrada a una delicatessen del survival horror, Resident Evil: Biohazard</string>
+    <string name="desc_lady_dimitrescu">Por un poco de sangre, Alcina y sus hijas harán lo imposible por probar la tuya en la última entrega de la excelente saga de Capcom, Resident Evil: Village</string>
+    <string name="desc_sigrun">La boss final de todo el juego God of War (2018), una batalla legendaria para un Dios legendario</string>
+    <string name="desc_lillith">La Hija del Odio, en la cuerta entrega de la saga Diablo, encontraremos a Lillith, hija de Mefisto señor del Odio, como enemigo principal del juego</string>
+    <string name="desc_octopus">Personaje legendario de los comics de Spiderman, en este caso aparece en el juego Marvel\'s Spiderman unico de la plataforma de Sony</string>
+    <string name="desc_garrador_duo">Boss Mítico de laureado juego Resident Evil 4, durante toda la partida encontrarás varios pero son una gozada de jugarlos</string>
+    <string name="desc_medusa">Boss originario del juego Assassin\'s Creed: Odyssey, se encuentra en el valle petrificado de Lesbos</string>
+    <string name="desc_shimano">Boss originario de la famosa saga japones por excelencia, Yakuza, con apariciones en el Yakuza Kiwami entre otros</string>
+    <string name="boss_type">Boss Info:</string>
+    <string name="expand_button_content_description">See more or less information about a boss.</string>
+</resources>
